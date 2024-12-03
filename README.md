@@ -1,16 +1,16 @@
-# Manual Testing Projects
+# Projects
 
-Welcome to my GitHub repository! This space is dedicated to showcasing my journey and projects in **manual testing**as I prepare for a professional career in quality assurance.
+Welcome to my GitHub repository! This space is dedicated to showcasing my journey and projects in **Manual testing & Frontend Web Project** as I prepare for a professional career in quality assurance.
 
 ---
 
 ## 📋 About Me
 
-I am a **fresher** passionate about ensuring software quality through detailed testing processes. Currently, I'm building my skills by working on manual testing projects for platforms like **OpenCart** and **OrangeHRM**. My focus is on mastering tools like **Jira** and understanding real-world testing workflows.
+I am a **Computer Science Graduate** passionate about ensuring software quality through detailed testing processes. Currently, I'm building my skills by working on manual testing projects for platforms like **OpenCart** and **OrangeHRM**. My focus is on mastering tools like **Jira** and understanding real-world testing workflows.
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Manual Testing Projects
 
 ### 1. **OpenCart Testing**
    - **Description:** Conducted end-to-end manual testing of the OpenCart platform to ensure smooth user interactions and identify bugs.
