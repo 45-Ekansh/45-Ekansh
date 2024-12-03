@@ -1,6 +1,4 @@
-# Projects
-
-Welcome to my GitHub repository! This space is dedicated to showcasing my journey and projects in **Manual testing & Frontend Web Project** as I prepare for a professional career in quality assurance.
+Welcome to my GitHub repository! This space is dedicated to showcasing my journey and projects in **Manual testing & Frontend Web Application** as I prepare for a professional career in quality assurance and Frontend Developer .
 
 ---
 
